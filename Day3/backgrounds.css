@@ -1,0 +1,22 @@
+/* Color Values */
+.color {
+	color: antiquewhite;
+	background-color: #80b680;
+}
+/* Background Images */
+.background {
+	background-image: url(background.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+/* Opcaity and Transparency */
+.opacity {
+	background-color: rgba(255, 0, 0, 0.5);
+}
+/* Image Sizing and Alignment */
+.image1 {
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 100px;
+}
